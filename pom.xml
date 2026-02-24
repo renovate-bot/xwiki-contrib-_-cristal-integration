@@ -25,7 +25,7 @@
   <parent>
     <groupId>org.xwiki.contrib</groupId>
     <artifactId>parent-platform</artifactId>
-    <version>17.5.0</version>
+    <version>18.1.0</version>
   </parent>
   <groupId>org.xwiki.contrib.cristal.integration</groupId>
   <artifactId>cristal-integration</artifactId>
@@ -58,7 +58,6 @@
     <xwiki.issueManagement.jira.id>CRISTALINT</xwiki.issueManagement.jira.id>
     <markdown.version>8.9</markdown.version>
     <oidc.version>2.19.6</oidc.version>
-    <vueI18n.version>11.2.2</vueI18n.version>
   </properties>
   <developers>
     <developer>
