@@ -36,7 +36,7 @@
     "@xwiki/platform-link-suggest-xwiki": "18.7.0",
     "@xwiki/platform-model-remote-url-api": "18.7.0",
     "inversify": "8.2.3",
-    "pinia": "4.0.2",
+    "pinia": "4.0.3",
     "vue-router": "5.2.0"
   },
   "devDependencies": {
