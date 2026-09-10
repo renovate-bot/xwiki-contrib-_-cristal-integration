@@ -19,13 +19,13 @@ importers:
         version: 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-editors-blocknote':
         specifier: 1.7.0
-        version: 1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+        version: 1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/cristal-history-xwiki':
         specifier: 1.7.0
         version: 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-lib':
         specifier: 1.7.0
-        version: 1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@floating-ui/utils@0.2.12)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(y-protocols@1.0.7(yjs@13.6.31))(yaml@2.9.0)(yjs@13.6.31)
+        version: 1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@floating-ui/utils@0.2.12)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(y-protocols@1.0.7(yjs@13.6.31))(yaml@2.9.0)(yjs@13.6.31)
       '@xwiki/cristal-model-reference-xwiki':
         specifier: 1.7.0
         version: 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
@@ -74,10 +74,10 @@ importers:
     devDependencies:
       '@eslint/eslintrc':
         specifier: 3.3.5
-        version: 3.3.5
+        version: 3.3.5(supports-color@8.1.1)
       '@eslint/js':
         specifier: 10.0.1
-        version: 10.0.1(eslint@10.8.0(jiti@2.7.0))
+        version: 10.0.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))
       '@types/jsdom':
         specifier: 30.0.0
         version: 30.0.0
@@ -89,22 +89,22 @@ importers:
         version: 6.0.7(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3))
       '@vitest/eslint-plugin':
         specifier: 1.6.27
-        version: 1.6.27(@typescript-eslint/eslint-plugin@8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)(vitest@4.1.11(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)))
+        version: 1.6.27(@typescript-eslint/eslint-plugin@8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)(vitest@5.0.0(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)))
       '@vue/eslint-config-prettier':
         specifier: 10.2.0
-        version: 10.2.0(eslint@10.8.0(jiti@2.7.0))(prettier@3.8.1)
+        version: 10.2.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(prettier@3.8.1)
       '@vue/eslint-config-typescript':
         specifier: 14.9.0
-        version: 14.9.0(eslint-plugin-vue@10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0))))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
+        version: 14.9.0(eslint-plugin-vue@10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
       '@vue/tsconfig':
         specifier: 0.9.1
         version: 0.9.1(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))
       eslint:
         specifier: 10.8.0
-        version: 10.8.0(jiti@2.7.0)
+        version: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       eslint-plugin-vue:
         specifier: 10.9.1
-        version: 10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)))
+        version: 10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1))
       globals:
         specifier: 17.6.0
         version: 17.6.0
@@ -122,7 +122,7 @@ importers:
         version: 5.9.3
       typescript-eslint:
         specifier: 8.65.0
-        version: 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
+        version: 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
       vite:
         specifier: 7.3.5
         version: 7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)
@@ -130,8 +130,8 @@ importers:
         specifier: 4.0.1
         version: 4.0.1(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))
       vitest:
-        specifier: 4.1.11
-        version: 4.1.11(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))
+        specifier: 5.0.0
+        version: 5.0.0(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))
       vue:
         specifier: 3.5.38
         version: 3.5.38(typescript@5.9.3)
@@ -997,9 +997,6 @@ packages:
     resolution: {integrity: sha512-FSghU95jZPGbwr/mybVvk66qRZYpx5FkXL+vLNpy1Vp8UsdwSxXjIHE3fsvMbKWTKi9UFfewHTkc5e7jAqRYoQ==}
     engines: {node: '>=14.17.0'}
 
-  '@standard-schema/spec@1.1.0':
-    resolution: {integrity: sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w==}
-
   '@tanstack/react-store@0.7.7':
     resolution: {integrity: sha512-qqT0ufegFRDGSof9D/VqaZgjNgp4tRPHZIJq2+QIHkMUtHjaJ0lYrrXjeIUJvjnTbgPfSD1XgOMEt0lmANn6Zg==}
     peerDependencies:
@@ -1287,11 +1284,8 @@ packages:
       vitest:
         optional: true
 
-  '@vitest/expect@4.1.11':
-    resolution: {integrity: sha512-VX2x5vNJXET47KAFzwERI+KRMtTTCSWTfSMKsW7JsUsXV4psq++e3DvZpuTDOpHcxytiDs6p2nhVb2tVDiiUYw==}
-
-  '@vitest/mocker@4.1.11':
-    resolution: {integrity: sha512-2XJVD55d1o5AZous5CCGKS74g/riOj9odEt2bQpCVZeblHyHdnMeFl4jl0XjU21stf4mbjUkew2eXQZt65g5CQ==}
+  '@vitest/mocker@5.0.0':
+    resolution: {integrity: sha512-66PGTMIiVJP3t4a5yxU9qPtf7MdTBs8jmToMvy+HVflB3Yy13WJZTtPePdvU+wjRV02SKK5doLbSA6o9pwOmiA==}
     peerDependencies:
       msw: ^2.4.9
       vite: ^6.0.0 || ^7.0.0 || ^8.0.0
@@ -1301,20 +1295,8 @@ packages:
       vite:
         optional: true
 
-  '@vitest/pretty-format@4.1.11':
-    resolution: {integrity: sha512-yiZzPbGTS9Sr/JpFl8zHrcIkAofNbFV6k21vIgQN/cY/oxZeXhJv5sc/MBJ5jFKWmWs+oJHw0UXLZjmf931+Vw==}
-
-  '@vitest/runner@4.1.11':
-    resolution: {integrity: sha512-LztvUgdwMNJMIkj3hQnnxiC2Xy1zNxq928W/xhjCLaNCzqTZOudjwbQf6v9IntZGPw132i2Lq2rgTRZHD3JHNw==}
-
-  '@vitest/snapshot@4.1.11':
-    resolution: {integrity: sha512-pN7ikn1ON7h8ee4gIAp4AzyK+zBtJPzVbqOgu5LCEh4VaJVbPQcgYQYJIMGQPXVeJJq1fnfazis7a5pFNPahog==}
-
-  '@vitest/spy@4.1.11':
-    resolution: {integrity: sha512-apNa/prQy2qCeywhnixOHPRCgGNhvg7T4Dapfl1GahLp/R+uhBm5cPyFoNVyqsNd2h1nJxL6BqqdIjiABL60YA==}
-
-  '@vitest/utils@4.1.11':
-    resolution: {integrity: sha512-zTCVGpyFsGWBhllOyKlTw/vnr6D9qxsfSDyfbyZmTyjHw5N/VuvzHpHoQjm2ZJzn4RJgx5w4r7V0er69CmLgPQ==}
+  '@vitest/spy@5.0.0':
+    resolution: {integrity: sha512-uy+luWBAPw9XfthoHi5AkfHUnuPYEESjl0p/r+meoBnU8bxg5GDQ3Ey8MjcJ6sqahkL4PFyrvfMJJBw7LbU06g==}
 
   '@volar/language-core@2.4.28':
     resolution: {integrity: sha512-w4qhIJ8ZSitgLAkVay6AbcnC7gP3glYM3fYwKV3srj8m494E3xtrCv6E+bWviiK/8hs6e6t1ij1s2Endql7vzQ==}
@@ -2250,9 +2232,6 @@ packages:
   confbox@0.2.4:
     resolution: {integrity: sha512-ysOGlgTFbN2/Y6Cg3Iye8YKulHw+R2fNXHrgSmXISQdMnomY6eNDprVdW9R5xBguEqI954+S6709UyiO7B+6OQ==}
 
-  convert-source-map@2.0.0:
-    resolution: {integrity: sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg==}
-
   crelt@1.0.6:
     resolution: {integrity: sha512-VQ2MBenTq1fWZUH9DJNGti7kKv6EeAuYr3cLwxUWhIu1baTaXh4Ib5W2CqHVqib4/MqbYGJqiL3Zb8GJZr3l4g==}
 
@@ -2340,8 +2319,8 @@ packages:
     resolution: {integrity: sha512-Zf5H2Kxt2xjTvbJvP2ZWLEICxA6j+hAmMzIlypy4xcBg1vKVnx89Wy0GbS+kf5cwCVFFzdCFh2XSCFNULS6csw==}
     engines: {node: '>= 0.4'}
 
-  es-module-lexer@2.0.0:
-    resolution: {integrity: sha512-5POEcUuZybH7IdmGsD8wlf0AI55wMecM9rVBTI/qEAy2c1kTOm3DjFYjrBdI2K3BaJjJYfYFeRtM0t9ssnRuxw==}
+  es-module-lexer@2.3.2:
+    resolution: {integrity: sha512-poHGpORABojJJucnV9KbOavETW8lBVnphkW77ER5/BQ5Fz7oXSoCNek7IH3vR5nRjdsEz926ibFYX8KtLQmdyw==}
 
   esbuild@0.27.3:
     resolution: {integrity: sha512-8VwMnyGCONIs6cWue2IdpHxHnAjzxnw2Zr7MkVxB2vjmQ2ivqGFb4LEG3SMnv0Gb2F/G/2yA8zUaiL1gywDCCg==}
@@ -2442,8 +2421,8 @@ packages:
     resolution: {integrity: sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==}
     engines: {node: '>=0.10.0'}
 
-  expect-type@1.3.0:
-    resolution: {integrity: sha512-knvyeauYhqjOYvQ66MznSMs83wmHrCycNEN6Ao+2AeYEfxUIkuiVxdEa1qlGEPK+We3n0THiDciYSsCcgW/DoA==}
+  expect-type@1.4.0:
+    resolution: {integrity: sha512-KfYbmpRm0VbLjEvVa9yGwCi9GI34xvi7A/HXYWQO65CSD2u3MczUJSuwXKFIxlGsgBQizV9q5J9NHj4VG0n+pA==}
     engines: {node: '>=12.0.0'}
 
   exsolve@1.0.8:
@@ -2819,6 +2798,9 @@ packages:
   magic-string@0.30.21:
     resolution: {integrity: sha512-vd2F4YUyEXKGcLHoq+TEyCjxueSeHnFxyyjNp80yg0XV4vUhnDer/lvvlqM/arB5bXQN5K2/3oinyCRyx8T2CQ==}
 
+  magic-string@1.2.3:
+    resolution: {integrity: sha512-Bpb0W2TbLKOZ7vJnOUnVRGq3WL2p+ISV29M6hYPL1AFCpyKZpdr5ytiXoTSSxRVhg8YW7f65+6gbG8WG6PCa/g==}
+
   markdown-it@14.1.1:
     resolution: {integrity: sha512-BuU2qnTti9YKgK5N+IeMubp14ZUKUUw7yeJbkjtosvHiP0AZ5c8IAgEMk79D0eC8F23r4Ac/q8cAIFdm2FtyoA==}
     hasBin: true
@@ -2994,8 +2976,9 @@ packages:
   nth-check@2.1.1:
     resolution: {integrity: sha512-lqjrjmaOoAnWfMmBPL+XNnynZh2+swxiX3WUE0s4yEHI6m+AwrK2UZOimIRl3X/4QctVqS8AiZjFqyOGrMXb/w==}
 
-  obug@2.1.1:
-    resolution: {integrity: sha512-uTqF9MuPraAQ+IsnPf366RG4cP9RtUi7MLO1N3KEc+wb0a6yKpeL0lmk2IB1jY5KHPAlTc6T/JRdC/YqxHNwkQ==}
+  obug@2.2.1:
+    resolution: {integrity: sha512-XrsrhT5sybtKI6wakr2SPOlGZWWYbUXZ7a0jT8/QOeAPau+1X/bSegNe5YR75oJmEZQbKningirmGOEJCIk61Q==}
+    engines: {node: '>=12.20.0'}
 
   optionator@0.9.4:
     resolution: {integrity: sha512-6IpQ7mKUxRcZNLIObR0hz7lxsapSSIYNZJwXPGeF0mTVqGKFIXj1DQcMoT22S3ROcLyY/rz0PWaWZ9ayWmad9g==}
@@ -3377,8 +3360,8 @@ packages:
   stackback@0.0.2:
     resolution: {integrity: sha512-1XMJE5fQo1jGH6Y/7ebnwPOBEkIEnT4QF32d5R1+VXdXveM0IBMJt8zfaxX1P3QhVwrYe+576+jkANtSS2mBbw==}
 
-  std-env@4.0.0:
-    resolution: {integrity: sha512-zUMPtQ/HBY3/50VbpkupYHbRroTRZJPRLvreamgErJVys0ceuzMkD44J/QjqhHjOzK42GQ3QZIeFG1OYfOtKqQ==}
+  std-env@4.2.0:
+    resolution: {integrity: sha512-oCUKSupKTHX53EyjDtuZQ64pjLJ6yYCtpmEw0goYxtjG9KpbRe8KAsl2tBUGU9DyMcJ0RwJ8GqJAFzMXcXW1Rw==}
 
   string-argv@0.3.2:
     resolution: {integrity: sha512-aqD2Q0144Z+/RqG52NeHEkZauTAUWJO8c6yTftGJKO3Tja5tUgIfmIl6kExvhtxSDP7fXB6DvzkfMpCd/F3G+Q==}
@@ -3413,11 +3396,12 @@ packages:
     resolution: {integrity: sha512-yEFYrVhod+hdNyx7g5Bnkkb0G6si8HJurOoOEgC8B/O0uXLHlaey/65KRv6cuWBNhBgHKAROVpc7QyYqE5gFng==}
     engines: {node: '>=20'}
 
-  tinybench@2.9.0:
-    resolution: {integrity: sha512-0+DUvqWMValLmha6lr4kD8iAMK1HzV0/aKnCtWb9v9641TnP/MFb7Pc2bxoxQjTXAErryXVgUOfv2YqNllqGeg==}
+  tinybench@6.1.4:
+    resolution: {integrity: sha512-9APumHG7r4yOk4X4WlkmE71aZcv1gvin1czO3OQ1U9iJcFA5Ja/ygyb0vPOVHTthFozUYs8CLoLUlM8grb2lTQ==}
+    engines: {node: '>=20.0.0'}
 
-  tinyexec@1.0.2:
-    resolution: {integrity: sha512-W/KYk+NFhkmsYpuHq5JykngiOCnxeVL8v8dFnqxSD8qEEdRfXk1SDM6JzNqcERbcGYj9tMrDQBYV9cjgnunFIg==}
+  tinyexec@1.3.0:
+    resolution: {integrity: sha512-QKAl9m8gWWGHV8jZcPeym6j+XULi6tOf1mT83WYJ4Lk2ytW/uwAWkrP0uFsdoYMdueVJ0qs26wZ+23xeB4ibNQ==}
     engines: {node: '>=18'}
 
   tinyglobby@0.2.15:
@@ -3427,10 +3411,6 @@ packages:
   tinyglobby@0.2.17:
     resolution: {integrity: sha512-wXR/dYpcqKmfWpEdZjiKJOwCNFndD0DMnrW/cYjVGttEkBfVgcLFHoNrlj47mjOVic9yyNu65alsgF4NQyTa2g==}
     engines: {node: '>=12.0.0'}
-
-  tinyrainbow@3.1.0:
-    resolution: {integrity: sha512-Bf+ILmBgretUrdJxzXM0SgXLZ3XfiaUuOj/IKQHuTXip+05Xn+uyEYdVg0kYDipTBcLrCVyUzAPz7QmArb0mmw==}
-    engines: {node: '>=14.0.0'}
 
   tldts-core@7.0.23:
     resolution: {integrity: sha512-0g9vrtDQLrNIiCj22HSe9d4mLVG3g5ph5DZ8zCKBr4OtrspmNB6ss7hVyzArAeE88ceZocIEGkyW1Ime7fxPtQ==}
@@ -3698,23 +3678,23 @@ packages:
       yaml:
         optional: true
 
-  vitest@4.1.11:
-    resolution: {integrity: sha512-fhACrNXUidIbGSBr5FlbuBkO7VWC1ZyLl0DO4CU2DrQoAPxX84Ysxs+HeGQpii5lZWV1Q4gBZTTu49mF+A6Edw==}
-    engines: {node: ^20.0.0 || ^22.0.0 || >=24.0.0}
+  vitest@5.0.0:
+    resolution: {integrity: sha512-gpsMNoRhMjMktVxPtstOH4/PJuPyovVaMDr4oDilXaGH1EcqM2OE96SoHT2VIQ6fTGtTjqmHDrEu2X9RQiXf8Q==}
+    engines: {node: ^22.12.0 || ^24.0.0 || >=26.0.0}
     hasBin: true
     peerDependencies:
       '@edge-runtime/vm': '*'
       '@opentelemetry/api': ^1.9.0
-      '@types/node': ^20.0.0 || ^22.0.0 || >=24.0.0
-      '@vitest/browser-playwright': 4.1.11
-      '@vitest/browser-preview': 4.1.11
-      '@vitest/browser-webdriverio': 4.1.11
-      '@vitest/coverage-istanbul': 4.1.11
-      '@vitest/coverage-v8': 4.1.11
-      '@vitest/ui': 4.1.11
+      '@types/node': ^22.0.0 || >=24.0.0
+      '@vitest/browser-playwright': 5.0.0
+      '@vitest/browser-preview': 5.0.0
+      '@vitest/browser-webdriverio': ^5.0.0-beta.5 || >=5.0.0
+      '@vitest/coverage-istanbul': 5.0.0
+      '@vitest/coverage-v8': 5.0.0
+      '@vitest/ui': 5.0.0
       happy-dom: '*'
       jsdom: '*'
-      vite: ^6.0.0 || ^7.0.0 || ^8.0.0
+      vite: ^6.4.0 || ^7.0.0 || ^8.0.0
     peerDependenciesMeta:
       '@edge-runtime/vm':
         optional: true
@@ -4010,7 +3990,7 @@ snapshots:
       prosemirror-tables: 1.8.5
       prosemirror-transform: 1.11.0
       prosemirror-view: 1.41.6
-      y-prosemirror: 1.3.7(prosemirror-model@1.25.4)(prosemirror-state@1.4.4)(prosemirror-view@1.41.6)(y-protocols@1.0.7(yjs@13.6.31))(yjs@13.6.30)
+      y-prosemirror: 1.3.7(prosemirror-model@1.25.4)(prosemirror-state@1.4.4)(prosemirror-view@1.41.6)(y-protocols@1.0.7(yjs@13.6.30))(yjs@13.6.30)
       y-protocols: 1.0.7(yjs@13.6.30)
       yjs: 13.6.30
     transitivePeerDependencies:
@@ -4199,17 +4179,17 @@ snapshots:
   '@esbuild/win32-x64@0.27.3':
     optional: true
 
-  '@eslint-community/eslint-utils@4.9.1(eslint@10.8.0(jiti@2.7.0))':
+  '@eslint-community/eslint-utils@4.9.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))':
     dependencies:
-      eslint: 10.8.0(jiti@2.7.0)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       eslint-visitor-keys: 3.4.3
 
   '@eslint-community/regexpp@4.12.2': {}
 
-  '@eslint/config-array@0.23.5':
+  '@eslint/config-array@0.23.5(supports-color@8.1.1)':
     dependencies:
       '@eslint/object-schema': 3.0.5
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       minimatch: 10.2.5
     transitivePeerDependencies:
       - supports-color
@@ -4222,10 +4202,10 @@ snapshots:
     dependencies:
       '@types/json-schema': 7.0.15
 
-  '@eslint/eslintrc@3.3.5':
+  '@eslint/eslintrc@3.3.5(supports-color@8.1.1)':
     dependencies:
       ajv: 6.14.0
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       espree: 10.4.0
       globals: 14.0.0
       ignore: 5.3.2
@@ -4236,9 +4216,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@eslint/js@10.0.1(eslint@10.8.0(jiti@2.7.0))':
+  '@eslint/js@10.0.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))':
     optionalDependencies:
-      eslint: 10.8.0(jiti@2.7.0)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
 
   '@eslint/object-schema@3.0.5': {}
 
@@ -4690,8 +4670,6 @@ snapshots:
       - '@floating-ui/utils'
       - '@types/react'
 
-  '@standard-schema/spec@1.1.0': {}
-
   '@tanstack/react-store@0.7.7(react-dom@19.2.8(react@19.2.8))(react@19.2.8)':
     dependencies:
       '@tanstack/store': 0.7.7
@@ -4869,15 +4847,15 @@ snapshots:
 
   '@types/use-sync-external-store@1.5.0': {}
 
-  '@typescript-eslint/eslint-plugin@8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)':
+  '@typescript-eslint/eslint-plugin@8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
       '@eslint-community/regexpp': 4.12.2
-      '@typescript-eslint/parser': 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
+      '@typescript-eslint/parser': 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
       '@typescript-eslint/scope-manager': 8.65.0
-      '@typescript-eslint/type-utils': 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
-      '@typescript-eslint/utils': 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
+      '@typescript-eslint/type-utils': 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
+      '@typescript-eslint/utils': 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
       '@typescript-eslint/visitor-keys': 8.65.0
-      eslint: 10.8.0(jiti@2.7.0)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       ignore: 7.0.5
       natural-compare: 1.4.0
       ts-api-utils: 2.5.0(typescript@5.9.3)
@@ -4885,32 +4863,32 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)':
+  '@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
       '@typescript-eslint/scope-manager': 8.65.0
       '@typescript-eslint/types': 8.65.0
-      '@typescript-eslint/typescript-estree': 8.65.0(typescript@5.9.3)
+      '@typescript-eslint/typescript-estree': 8.65.0(supports-color@8.1.1)(typescript@5.9.3)
       '@typescript-eslint/visitor-keys': 8.65.0
-      debug: 4.4.3
-      eslint: 10.8.0(jiti@2.7.0)
+      debug: 4.4.3(supports-color@8.1.1)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       typescript: 5.9.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/project-service@8.62.1(typescript@5.9.3)':
+  '@typescript-eslint/project-service@8.62.1(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
       '@typescript-eslint/tsconfig-utils': 8.65.0(typescript@5.9.3)
       '@typescript-eslint/types': 8.65.0
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       typescript: 5.9.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/project-service@8.65.0(typescript@5.9.3)':
+  '@typescript-eslint/project-service@8.65.0(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
       '@typescript-eslint/tsconfig-utils': 8.65.0(typescript@5.9.3)
       '@typescript-eslint/types': 8.65.0
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       typescript: 5.9.3
     transitivePeerDependencies:
       - supports-color
@@ -4933,13 +4911,13 @@ snapshots:
     dependencies:
       typescript: 5.9.3
 
-  '@typescript-eslint/type-utils@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)':
+  '@typescript-eslint/type-utils@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
       '@typescript-eslint/types': 8.65.0
-      '@typescript-eslint/typescript-estree': 8.65.0(typescript@5.9.3)
-      '@typescript-eslint/utils': 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
-      debug: 4.4.3
-      eslint: 10.8.0(jiti@2.7.0)
+      '@typescript-eslint/typescript-estree': 8.65.0(supports-color@8.1.1)(typescript@5.9.3)
+      '@typescript-eslint/utils': 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
+      debug: 4.4.3(supports-color@8.1.1)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       ts-api-utils: 2.5.0(typescript@5.9.3)
       typescript: 5.9.3
     transitivePeerDependencies:
@@ -4949,13 +4927,13 @@ snapshots:
 
   '@typescript-eslint/types@8.65.0': {}
 
-  '@typescript-eslint/typescript-estree@8.62.1(typescript@5.9.3)':
+  '@typescript-eslint/typescript-estree@8.62.1(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
-      '@typescript-eslint/project-service': 8.62.1(typescript@5.9.3)
+      '@typescript-eslint/project-service': 8.62.1(supports-color@8.1.1)(typescript@5.9.3)
       '@typescript-eslint/tsconfig-utils': 8.62.1(typescript@5.9.3)
       '@typescript-eslint/types': 8.62.1
       '@typescript-eslint/visitor-keys': 8.62.1
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       minimatch: 10.2.5
       semver: 7.7.4
       tinyglobby: 0.2.15
@@ -4964,13 +4942,13 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/typescript-estree@8.65.0(typescript@5.9.3)':
+  '@typescript-eslint/typescript-estree@8.65.0(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
-      '@typescript-eslint/project-service': 8.65.0(typescript@5.9.3)
+      '@typescript-eslint/project-service': 8.65.0(supports-color@8.1.1)(typescript@5.9.3)
       '@typescript-eslint/tsconfig-utils': 8.65.0(typescript@5.9.3)
       '@typescript-eslint/types': 8.65.0
       '@typescript-eslint/visitor-keys': 8.65.0
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       minimatch: 10.2.5
       semver: 7.7.4
       tinyglobby: 0.2.15
@@ -4979,24 +4957,24 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/utils@8.62.1(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)':
+  '@typescript-eslint/utils@8.62.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
-      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(jiti@2.7.0))
+      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))
       '@typescript-eslint/scope-manager': 8.62.1
       '@typescript-eslint/types': 8.62.1
-      '@typescript-eslint/typescript-estree': 8.62.1(typescript@5.9.3)
-      eslint: 10.8.0(jiti@2.7.0)
+      '@typescript-eslint/typescript-estree': 8.62.1(supports-color@8.1.1)(typescript@5.9.3)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       typescript: 5.9.3
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/utils@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)':
+  '@typescript-eslint/utils@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
-      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(jiti@2.7.0))
+      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))
       '@typescript-eslint/scope-manager': 8.65.0
       '@typescript-eslint/types': 8.65.0
-      '@typescript-eslint/typescript-estree': 8.65.0(typescript@5.9.3)
-      eslint: 10.8.0(jiti@2.7.0)
+      '@typescript-eslint/typescript-estree': 8.65.0(supports-color@8.1.1)(typescript@5.9.3)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       typescript: 5.9.3
     transitivePeerDependencies:
       - supports-color
@@ -5023,58 +5001,28 @@ snapshots:
       vite: 8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0)
       vue: 3.5.38(typescript@5.9.3)
 
-  '@vitest/eslint-plugin@1.6.27(@typescript-eslint/eslint-plugin@8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)(vitest@4.1.11(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)))':
+  '@vitest/eslint-plugin@1.6.27(@typescript-eslint/eslint-plugin@8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)(vitest@5.0.0(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)))':
     dependencies:
       '@typescript-eslint/scope-manager': 8.65.0
-      '@typescript-eslint/utils': 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
-      eslint: 10.8.0(jiti@2.7.0)
+      '@typescript-eslint/utils': 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
     optionalDependencies:
-      '@typescript-eslint/eslint-plugin': 8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
+      '@typescript-eslint/eslint-plugin': 8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
       typescript: 5.9.3
-      vitest: 4.1.11(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))
+      vitest: 5.0.0(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))
     transitivePeerDependencies:
       - supports-color
 
-  '@vitest/expect@4.1.11':
+  '@vitest/mocker@5.0.0(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))':
     dependencies:
-      '@standard-schema/spec': 1.1.0
-      '@types/chai': 5.2.3
-      '@vitest/spy': 4.1.11
-      '@vitest/utils': 4.1.11
-      chai: 6.2.2
-      tinyrainbow: 3.1.0
-
-  '@vitest/mocker@4.1.11(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))':
-    dependencies:
-      '@vitest/spy': 4.1.11
+      '@jridgewell/trace-mapping': 0.3.31
+      '@vitest/spy': 5.0.0
       estree-walker: 3.0.3
-      magic-string: 0.30.21
+      magic-string: 1.2.3
     optionalDependencies:
       vite: 7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)
 
-  '@vitest/pretty-format@4.1.11':
-    dependencies:
-      tinyrainbow: 3.1.0
-
-  '@vitest/runner@4.1.11':
-    dependencies:
-      '@vitest/utils': 4.1.11
-      pathe: 2.0.3
-
-  '@vitest/snapshot@4.1.11':
-    dependencies:
-      '@vitest/pretty-format': 4.1.11
-      '@vitest/utils': 4.1.11
-      magic-string: 0.30.21
-      pathe: 2.0.3
-
-  '@vitest/spy@4.1.11': {}
-
-  '@vitest/utils@4.1.11':
-    dependencies:
-      '@vitest/pretty-format': 4.1.11
-      convert-source-map: 2.0.0
-      tinyrainbow: 3.1.0
+  '@vitest/spy@5.0.0': {}
 
   '@volar/language-core@2.4.28':
     dependencies:
@@ -5161,23 +5109,23 @@ snapshots:
 
   '@vue/devtools-shared@8.2.1': {}
 
-  '@vue/eslint-config-prettier@10.2.0(eslint@10.8.0(jiti@2.7.0))(prettier@3.8.1)':
+  '@vue/eslint-config-prettier@10.2.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(prettier@3.8.1)':
     dependencies:
-      eslint: 10.8.0(jiti@2.7.0)
-      eslint-config-prettier: 10.1.8(eslint@10.8.0(jiti@2.7.0))
-      eslint-plugin-prettier: 5.5.5(eslint-config-prettier@10.1.8(eslint@10.8.0(jiti@2.7.0)))(eslint@10.8.0(jiti@2.7.0))(prettier@3.8.1)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
+      eslint-config-prettier: 10.1.8(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))
+      eslint-plugin-prettier: 5.5.5(eslint-config-prettier@10.1.8(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1)))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(prettier@3.8.1)
       prettier: 3.8.1
     transitivePeerDependencies:
       - '@types/eslint'
 
-  '@vue/eslint-config-typescript@14.9.0(eslint-plugin-vue@10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0))))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)':
+  '@vue/eslint-config-typescript@14.9.0(eslint-plugin-vue@10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)':
     dependencies:
-      '@typescript-eslint/utils': 8.62.1(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
-      eslint: 10.8.0(jiti@2.7.0)
-      eslint-plugin-vue: 10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)))
+      '@typescript-eslint/utils': 8.62.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
+      eslint-plugin-vue: 10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1))
       fast-glob: 3.3.3
-      typescript-eslint: 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
-      vue-eslint-parser: 10.4.0(eslint@10.8.0(jiti@2.7.0))
+      typescript-eslint: 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
+      vue-eslint-parser: 10.4.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)
     optionalDependencies:
       typescript: 5.9.3
     transitivePeerDependencies:
@@ -5368,7 +5316,7 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-backend-github@1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/cristal-backend-github@1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@xwiki/cristal-alerts-api': 1.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-page-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
@@ -5376,7 +5324,7 @@ snapshots:
       '@xwiki/platform-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-authentication-api': 18.7.0(reflect-metadata@0.2.2)
       '@xwiki/platform-backend-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-markdown-syntax-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-markdown-syntax-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       inversify: 8.2.3(reflect-metadata@0.2.2)
       mime: 4.1.0
       reflect-metadata: 0.2.2
@@ -5399,7 +5347,7 @@ snapshots:
       - vue-router
       - yaml
 
-  '@xwiki/cristal-backend-nextcloud@1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/cristal-backend-nextcloud@1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@xwiki/cristal-alerts-api': 1.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-nextcloud-http-headers': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
@@ -5409,7 +5357,7 @@ snapshots:
       '@xwiki/platform-authentication-api': 18.7.0(reflect-metadata@0.2.2)
       '@xwiki/platform-backend-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-document-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-markdown-syntax-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-markdown-syntax-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/platform-model-api': 18.7.0
       fast-xml-parser: 5.7.0
       inversify: 8.2.3(reflect-metadata@0.2.2)
@@ -5433,15 +5381,15 @@ snapshots:
       - vue-router
       - yaml
 
-  '@xwiki/cristal-backend-xwiki@1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/cristal-backend-xwiki@1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@xwiki/cristal-alerts-api': 1.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-utils-inversify': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))
       '@xwiki/platform-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-authentication-api': 18.7.0(reflect-metadata@0.2.2)
       '@xwiki/platform-backend-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-markdown-syntax-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
-      '@xwiki/platform-syntaxes-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-markdown-syntax-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-syntaxes-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/platform-xwiki-utils': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       inversify: 8.2.3(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -5575,18 +5523,18 @@ snapshots:
       - vue-router
       - webpack-plugin-vuetify
 
-  '@xwiki/cristal-editors-blocknote@1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/cristal-editors-blocknote@1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@blocknote/core': 0.51.4(@types/hast@3.0.4)
       '@xwiki/cristal-alerts-api': 1.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/cristal-skin': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/cristal-skin': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-backend-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-collaboration-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-document-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-dsapi': 18.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-editors-blocknote-headless': 18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
-      '@xwiki/platform-editors-blocknote-react': 18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-editors-blocknote-headless': 18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-editors-blocknote-react': 18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/platform-fn-utils': 18.7.0
       '@xwiki/platform-icons': 18.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-macros-api': 18.7.0
@@ -5594,9 +5542,9 @@ snapshots:
       '@xwiki/platform-model-api': 18.7.0
       '@xwiki/platform-model-reference-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-model-remote-url-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-syntaxes-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-syntaxes-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/platform-uniast-api': 18.7.0
-      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       inversify: 8.2.3(reflect-metadata@0.2.2)
       lodash-es: 4.18.1
       reflect-metadata: 0.2.2
@@ -5639,9 +5587,9 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-extension-menubuttons@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
+  '@xwiki/cristal-extension-menubuttons@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
     dependencies:
-      '@xwiki/cristal-skin': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/cristal-skin': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       inversify: 8.2.3(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
@@ -5802,7 +5750,7 @@ snapshots:
     transitivePeerDependencies:
       - inversify
 
-  '@xwiki/cristal-lib@1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@floating-ui/utils@0.2.12)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(y-protocols@1.0.7(yjs@13.6.31))(yaml@2.9.0)(yjs@13.6.31)':
+  '@xwiki/cristal-lib@1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@floating-ui/utils@0.2.12)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(y-protocols@1.0.7(yjs@13.6.31))(yaml@2.9.0)(yjs@13.6.31)':
     dependencies:
       '@xwiki/cristal-alerts-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-attachments-ui': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
@@ -5811,18 +5759,18 @@ snapshots:
       '@xwiki/cristal-authentication-nextcloud-ui': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-authentication-ui': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-backend-dexie': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/cristal-backend-github': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
-      '@xwiki/cristal-backend-nextcloud': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
-      '@xwiki/cristal-backend-xwiki': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/cristal-backend-github': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/cristal-backend-nextcloud': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/cristal-backend-xwiki': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/cristal-browser-api': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-collaboration-hocuspocus': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(y-protocols@1.0.7(yjs@13.6.31))(yjs@13.6.31)
       '@xwiki/cristal-date-api': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
       '@xwiki/cristal-document-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-dsshoelace': 1.7.0(@floating-ui/utils@0.2.12)(@types/react@19.2.14)(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-dsvuetify': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/cristal-editors-blocknote': 1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/cristal-editors-blocknote': 1.7.0(@blocknote/core@0.51.4(@types/hast@3.0.4))(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/cristal-extension-manager': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/cristal-extension-menubuttons': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/cristal-extension-menubuttons': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-extra-tabs-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-hierarchy-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-hierarchy-github': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
@@ -5852,14 +5800,14 @@ snapshots:
       '@xwiki/cristal-rename-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-settings-api': 1.7.0
       '@xwiki/cristal-settings-configurations': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))
-      '@xwiki/cristal-settings-configurations-ui': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/cristal-settings-configurations-ui': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-settings-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/cristal-sharedworker-impl': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
-      '@xwiki/cristal-skin': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/cristal-sharedworker-impl': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/cristal-skin': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-uiextension-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-uniast-html': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/cristal-uniast-markdown-github': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/cristal-uniast-markdown-nextcloud': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/cristal-uniast-markdown-github': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/cristal-uniast-markdown-nextcloud': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-wiki-config-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-xwiki-macros': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))
       '@xwiki/cristal-xwiki-ui': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
@@ -5876,8 +5824,8 @@ snapshots:
       '@xwiki/platform-macros-service': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))
       '@xwiki/platform-model-reference-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-model-remote-url-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-uniast-markdown-xwiki': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/platform-uniast-markdown-xwiki': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       inversify: 8.2.3(reflect-metadata@0.2.2)
       pinia: 4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))
       reflect-metadata: 0.2.2
@@ -6192,12 +6140,12 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-settings-configurations-ui@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
+  '@xwiki/cristal-settings-configurations-ui@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
     dependencies:
       '@xwiki/cristal-alerts-api': 1.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-settings-api': 1.7.0
       '@xwiki/cristal-settings-configurations': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))
-      '@xwiki/cristal-skin': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/cristal-skin': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-uiextension-api': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-wiki-config-api': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
@@ -6231,14 +6179,14 @@ snapshots:
     dependencies:
       reflect-metadata: 0.2.2
 
-  '@xwiki/cristal-sharedworker-impl@1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/cristal-sharedworker-impl@1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@xwiki/cristal-alerts-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-authentication-default': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-backend-dexie': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/cristal-backend-github': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
-      '@xwiki/cristal-backend-nextcloud': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
-      '@xwiki/cristal-backend-xwiki': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/cristal-backend-github': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/cristal-backend-nextcloud': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/cristal-backend-xwiki': 1.7.0(@types/node@24.12.4)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/cristal-configuration-web': 1.7.0
       '@xwiki/cristal-extension-manager': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-sharedworker-api': 1.7.0(reflect-metadata@0.2.2)
@@ -6268,7 +6216,7 @@ snapshots:
       - typescript
       - yaml
 
-  '@xwiki/cristal-skin@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
+  '@xwiki/cristal-skin@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
     dependencies:
       '@xwiki/cristal-alerts-api': 1.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/cristal-alerts-ui': 1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
@@ -6296,7 +6244,7 @@ snapshots:
       '@xwiki/platform-icons': 18.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-model-api': 18.7.0
       '@xwiki/platform-model-reference-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       inversify: 8.2.3(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
       vue: 3.5.38(typescript@5.9.3)
@@ -6345,12 +6293,12 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-uniast-markdown-github@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
+  '@xwiki/cristal-uniast-markdown-github@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
     dependencies:
       '@xwiki/platform-document-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-model-api': 18.7.0
       '@xwiki/platform-uniast-api': 18.7.0
-      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       inversify: 8.2.3(reflect-metadata@0.2.2)
     transitivePeerDependencies:
       - reflect-metadata
@@ -6358,14 +6306,14 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/cristal-uniast-markdown-nextcloud@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
+  '@xwiki/cristal-uniast-markdown-nextcloud@1.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
     dependencies:
       '@xwiki/platform-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-document-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-model-api': 18.7.0
       '@xwiki/platform-model-remote-url-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-uniast-api': 18.7.0
-      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       fast-xml-parser: 5.7.0
       inversify: 8.2.3(reflect-metadata@0.2.2)
     transitivePeerDependencies:
@@ -6500,13 +6448,13 @@ snapshots:
       reflect-metadata: 0.2.2
       vue: 3.5.38(typescript@5.9.3)
 
-  '@xwiki/platform-editors-blocknote-headless@18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/platform-editors-blocknote-headless@18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@xwiki/platform-attachments-api': 18.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-collaboration-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-document-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-dsapi': 18.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
-      '@xwiki/platform-editors-blocknote-react': 18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-editors-blocknote-react': 18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/platform-icons': 18.7.0(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-link-suggest-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-macros-api': 18.7.0
@@ -6546,7 +6494,7 @@ snapshots:
       - vue-router
       - yaml
 
-  '@xwiki/platform-editors-blocknote-react@18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/platform-editors-blocknote-react@18.7.0(@floating-ui/dom@1.8.0)(@types/hast@3.0.4)(@types/node@24.12.4)(@types/react@19.2.14)(esbuild@0.27.3)(inversify@8.2.3(reflect-metadata@0.2.2))(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@blocknote/core': 0.51.4(@types/hast@3.0.4)
       '@blocknote/mantine': 0.51.4(@floating-ui/dom@1.8.0)(@mantine/core@9.4.1(@mantine/hooks@9.4.1(react@19.2.8))(@types/react@19.2.14)(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@mantine/hooks@9.4.1(react@19.2.8))(@types/hast@3.0.4)(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
@@ -6565,9 +6513,9 @@ snapshots:
       '@xwiki/platform-model-reference-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-model-remote-url-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-rendering-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)
-      '@xwiki/platform-syntaxes-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-syntaxes-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/platform-uniast-api': 18.7.0
-      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       i18next: 26.3.1(typescript@5.9.3)
       inversify: 8.2.3(reflect-metadata@0.2.2)
       lodash-es: 4.18.1
@@ -6679,12 +6627,12 @@ snapshots:
       '@xwiki/platform-macros-api': 18.7.0
       inversify: 8.2.3(reflect-metadata@0.2.2)
 
-  '@xwiki/platform-markdown-syntax-config@18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/platform-markdown-syntax-config@18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(reflect-metadata@0.2.2)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@xwiki/platform-model-api': 18.7.0
-      '@xwiki/platform-syntaxes-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-syntaxes-config': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       '@xwiki/platform-tool-apiextractorconfig': 18.7.0
-      '@xwiki/platform-tool-viteconfig': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-tool-viteconfig': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
       inversify: 8.2.3(reflect-metadata@0.2.2)
     transitivePeerDependencies:
       - '@types/node'
@@ -6742,10 +6690,10 @@ snapshots:
       inversify: 8.2.3(reflect-metadata@0.2.2)
       reflect-metadata: 0.2.2
 
-  '@xwiki/platform-syntaxes-config@18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/platform-syntaxes-config@18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@xwiki/platform-model-api': 18.7.0
-      '@xwiki/platform-tool-viteconfig': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
+      '@xwiki/platform-tool-viteconfig': 18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)
     transitivePeerDependencies:
       - '@types/node'
       - '@vitejs/devtools'
@@ -6766,13 +6714,13 @@ snapshots:
 
   '@xwiki/platform-tool-apiextractorconfig@18.7.0': {}
 
-  '@xwiki/platform-tool-viteconfig@18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
+  '@xwiki/platform-tool-viteconfig@18.7.0(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))(yaml@2.9.0)':
     dependencies:
       '@jridgewell/remapping': 2.3.5
       '@vitejs/plugin-vue': 6.0.8(vite@8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3))
       vite: 8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0)
       vite-plugin-css-injected-by-js: 5.0.2(vite@8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0))
-      vite-plugin-dts: 4.5.4(@types/node@24.12.4)(rollup@4.59.0)(typescript@5.9.3)(vite@8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0))
+      vite-plugin-dts: 4.5.4(@types/node@24.12.4)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vite@8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0))
     transitivePeerDependencies:
       - '@types/node'
       - '@vitejs/devtools'
@@ -6795,10 +6743,10 @@ snapshots:
     dependencies:
       '@xwiki/platform-model-api': 18.7.0
 
-  '@xwiki/platform-uniast-markdown-xwiki@18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
+  '@xwiki/platform-uniast-markdown-xwiki@18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
     dependencies:
       '@xwiki/platform-uniast-api': 18.7.0
-      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
+      '@xwiki/platform-uniast-markdown': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       inversify: 8.2.3(reflect-metadata@0.2.2)
     transitivePeerDependencies:
       - reflect-metadata
@@ -6806,7 +6754,7 @@ snapshots:
       - vue
       - vue-router
 
-  '@xwiki/platform-uniast-markdown@18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
+  '@xwiki/platform-uniast-markdown@18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(supports-color@8.1.1)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))':
     dependencies:
       '@xwiki/platform-api': 18.7.0(inversify@8.2.3(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.2.0(@vue/compiler-sfc@3.5.38)(esbuild@0.27.3)(pinia@4.0.2(@vue/devtools-api@8.2.1)(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3)))(rolldown@1.1.5)(rollup@4.59.0)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       '@xwiki/platform-fn-utils': 18.7.0
@@ -6814,13 +6762,13 @@ snapshots:
       '@xwiki/platform-model-api': 18.7.0
       '@xwiki/platform-uniast-api': 18.7.0
       inversify: 8.2.3(reflect-metadata@0.2.2)
-      mdast-util-gfm-strikethrough: 2.0.0
-      mdast-util-gfm-table: 2.0.0
-      mdast-util-gfm-task-list-item: 2.0.0
+      mdast-util-gfm-strikethrough: 2.0.0(supports-color@8.1.1)
+      mdast-util-gfm-table: 2.0.0(supports-color@8.1.1)
+      mdast-util-gfm-task-list-item: 2.0.0(supports-color@8.1.1)
       micromark-extension-gfm-strikethrough: 2.1.0
       micromark-extension-gfm-table: 2.1.1
       micromark-extension-gfm-task-list-item: 2.1.0
-      remark-parse: 11.0.0
+      remark-parse: 11.0.0(supports-color@8.1.1)
       unified: 11.0.5
     transitivePeerDependencies:
       - reflect-metadata
@@ -6958,8 +6906,6 @@ snapshots:
 
   confbox@0.2.4: {}
 
-  convert-source-map@2.0.0: {}
-
   crelt@1.0.6: {}
 
   cross-spawn@7.0.6:
@@ -6988,9 +6934,11 @@ snapshots:
 
   de-indent@1.0.2: {}
 
-  debug@4.4.3:
+  debug@4.4.3(supports-color@8.1.1):
     dependencies:
       ms: 2.1.3
+    optionalDependencies:
+      supports-color: 8.1.1
 
   decimal.js@10.6.0: {}
 
@@ -7024,7 +6972,7 @@ snapshots:
 
   es-errors@1.3.0: {}
 
-  es-module-lexer@2.0.0: {}
+  es-module-lexer@2.3.2: {}
 
   esbuild@0.27.3:
     optionalDependencies:
@@ -7057,31 +7005,31 @@ snapshots:
 
   escape-string-regexp@4.0.0: {}
 
-  eslint-config-prettier@10.1.8(eslint@10.8.0(jiti@2.7.0)):
+  eslint-config-prettier@10.1.8(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1)):
     dependencies:
-      eslint: 10.8.0(jiti@2.7.0)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
 
-  eslint-plugin-prettier@5.5.5(eslint-config-prettier@10.1.8(eslint@10.8.0(jiti@2.7.0)))(eslint@10.8.0(jiti@2.7.0))(prettier@3.8.1):
+  eslint-plugin-prettier@5.5.5(eslint-config-prettier@10.1.8(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1)))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(prettier@3.8.1):
     dependencies:
-      eslint: 10.8.0(jiti@2.7.0)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       prettier: 3.8.1
       prettier-linter-helpers: 1.0.1
       synckit: 0.11.12
     optionalDependencies:
-      eslint-config-prettier: 10.1.8(eslint@10.8.0(jiti@2.7.0))
+      eslint-config-prettier: 10.1.8(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))
 
-  eslint-plugin-vue@10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0))):
+  eslint-plugin-vue@10.9.1(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)):
     dependencies:
-      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(jiti@2.7.0))
-      eslint: 10.8.0(jiti@2.7.0)
+      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       natural-compare: 1.4.0
       nth-check: 2.1.1
       postcss-selector-parser: 7.1.1
       semver: 7.7.4
-      vue-eslint-parser: 10.4.0(eslint@10.8.0(jiti@2.7.0))
+      vue-eslint-parser: 10.4.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)
       xml-name-validator: 4.0.0
     optionalDependencies:
-      '@typescript-eslint/parser': 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
+      '@typescript-eslint/parser': 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
 
   eslint-scope@9.1.2:
     dependencies:
@@ -7096,11 +7044,11 @@ snapshots:
 
   eslint-visitor-keys@5.0.1: {}
 
-  eslint@10.8.0(jiti@2.7.0):
+  eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1):
     dependencies:
-      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(jiti@2.7.0))
+      '@eslint-community/eslint-utils': 4.9.1(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))
       '@eslint-community/regexpp': 4.12.2
-      '@eslint/config-array': 0.23.5
+      '@eslint/config-array': 0.23.5(supports-color@8.1.1)
       '@eslint/config-helpers': 0.7.0
       '@eslint/core': 1.2.1
       '@eslint/plugin-kit': 0.7.2
@@ -7110,7 +7058,7 @@ snapshots:
       '@types/estree': 1.0.8
       ajv: 6.14.0
       cross-spawn: 7.0.6
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       escape-string-regexp: 4.0.0
       eslint-scope: 9.1.2
       eslint-visitor-keys: 5.0.1
@@ -7163,7 +7111,7 @@ snapshots:
 
   esutils@2.0.3: {}
 
-  expect-type@1.3.0: {}
+  expect-type@1.4.0: {}
 
   exsolve@1.0.8: {}
 
@@ -7497,6 +7445,10 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
 
+  magic-string@1.2.3:
+    dependencies:
+      '@jridgewell/sourcemap-codec': 1.5.5
+
   markdown-it@14.1.1:
     dependencies:
       argparse: 2.0.1
@@ -7508,14 +7460,14 @@ snapshots:
 
   markdown-table@3.0.4: {}
 
-  mdast-util-from-markdown@2.0.3:
+  mdast-util-from-markdown@2.0.3(supports-color@8.1.1):
     dependencies:
       '@types/mdast': 4.0.4
       '@types/unist': 3.0.3
       decode-named-character-reference: 1.3.0
       devlop: 1.1.0
       mdast-util-to-string: 4.0.0
-      micromark: 4.0.2
+      micromark: 4.0.2(supports-color@8.1.1)
       micromark-util-decode-numeric-character-reference: 2.0.2
       micromark-util-decode-string: 2.0.1
       micromark-util-normalize-identifier: 2.0.1
@@ -7525,29 +7477,29 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  mdast-util-gfm-strikethrough@2.0.0:
+  mdast-util-gfm-strikethrough@2.0.0(supports-color@8.1.1):
     dependencies:
       '@types/mdast': 4.0.4
-      mdast-util-from-markdown: 2.0.3
+      mdast-util-from-markdown: 2.0.3(supports-color@8.1.1)
       mdast-util-to-markdown: 2.1.2
     transitivePeerDependencies:
       - supports-color
 
-  mdast-util-gfm-table@2.0.0:
+  mdast-util-gfm-table@2.0.0(supports-color@8.1.1):
     dependencies:
       '@types/mdast': 4.0.4
       devlop: 1.1.0
       markdown-table: 3.0.4
-      mdast-util-from-markdown: 2.0.3
+      mdast-util-from-markdown: 2.0.3(supports-color@8.1.1)
       mdast-util-to-markdown: 2.1.2
     transitivePeerDependencies:
       - supports-color
 
-  mdast-util-gfm-task-list-item@2.0.0:
+  mdast-util-gfm-task-list-item@2.0.0(supports-color@8.1.1):
     dependencies:
       '@types/mdast': 4.0.4
       devlop: 1.1.0
-      mdast-util-from-markdown: 2.0.3
+      mdast-util-from-markdown: 2.0.3(supports-color@8.1.1)
       mdast-util-to-markdown: 2.1.2
     transitivePeerDependencies:
       - supports-color
@@ -7717,10 +7669,10 @@ snapshots:
 
   micromark-util-types@2.0.2: {}
 
-  micromark@4.0.2:
+  micromark@4.0.2(supports-color@8.1.1):
     dependencies:
       '@types/debug': 4.1.12
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       decode-named-character-reference: 1.3.0
       devlop: 1.1.0
       micromark-core-commonmark: 2.0.3
@@ -7798,7 +7750,7 @@ snapshots:
     dependencies:
       boolbase: 1.0.0
 
-  obug@2.1.1: {}
+  obug@2.2.1: {}
 
   optionator@0.9.4:
     dependencies:
@@ -8081,10 +8033,10 @@ snapshots:
 
   reflect-metadata@0.2.2: {}
 
-  remark-parse@11.0.0:
+  remark-parse@11.0.0(supports-color@8.1.1):
     dependencies:
       '@types/mdast': 4.0.4
-      mdast-util-from-markdown: 2.0.3
+      mdast-util-from-markdown: 2.0.3(supports-color@8.1.1)
       micromark-util-types: 2.0.2
       unified: 11.0.5
     transitivePeerDependencies:
@@ -8189,7 +8141,7 @@ snapshots:
 
   stackback@0.0.2: {}
 
-  std-env@4.0.0: {}
+  std-env@4.2.0: {}
 
   string-argv@0.3.2: {}
 
@@ -8213,9 +8165,9 @@ snapshots:
 
   tagged-tag@1.0.0: {}
 
-  tinybench@2.9.0: {}
+  tinybench@6.1.4: {}
 
-  tinyexec@1.0.2: {}
+  tinyexec@1.3.0: {}
 
   tinyglobby@0.2.15:
     dependencies:
@@ -8226,8 +8178,6 @@ snapshots:
     dependencies:
       fdir: 6.5.0(picomatch@4.0.7)
       picomatch: 4.0.7
-
-  tinyrainbow@3.1.0: {}
 
   tldts-core@7.0.23: {}
 
@@ -8263,13 +8213,13 @@ snapshots:
     dependencies:
       tagged-tag: 1.0.0
 
-  typescript-eslint@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3):
+  typescript-eslint@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3):
     dependencies:
-      '@typescript-eslint/eslint-plugin': 8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
-      '@typescript-eslint/parser': 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
-      '@typescript-eslint/typescript-estree': 8.65.0(typescript@5.9.3)
-      '@typescript-eslint/utils': 8.65.0(eslint@10.8.0(jiti@2.7.0))(typescript@5.9.3)
-      eslint: 10.8.0(jiti@2.7.0)
+      '@typescript-eslint/eslint-plugin': 8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3))(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
+      '@typescript-eslint/parser': 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
+      '@typescript-eslint/typescript-estree': 8.65.0(supports-color@8.1.1)(typescript@5.9.3)
+      '@typescript-eslint/utils': 8.65.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1)(typescript@5.9.3)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       typescript: 5.9.3
     transitivePeerDependencies:
       - supports-color
@@ -8378,14 +8328,14 @@ snapshots:
     dependencies:
       vite: 8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0)
 
-  vite-plugin-dts@4.5.4(@types/node@24.12.4)(rollup@4.59.0)(typescript@5.9.3)(vite@8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0)):
+  vite-plugin-dts@4.5.4(@types/node@24.12.4)(rollup@4.59.0)(supports-color@8.1.1)(typescript@5.9.3)(vite@8.1.5(@types/node@24.12.4)(esbuild@0.27.3)(jiti@2.7.0)(yaml@2.9.0)):
     dependencies:
       '@microsoft/api-extractor': 7.59.0(@types/node@24.12.4)
       '@rollup/pluginutils': 5.4.0(rollup@4.59.0)
       '@volar/typescript': 2.4.28
       '@vue/language-core': 2.2.0(typescript@5.9.3)
       compare-versions: 6.1.1
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@8.1.1)
       kolorist: 1.8.0
       local-pkg: 1.1.2
       magic-string: 0.30.21
@@ -8426,26 +8376,20 @@ snapshots:
       jiti: 2.7.0
       yaml: 2.9.0
 
-  vitest@4.1.11(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)):
+  vitest@5.0.0(@types/node@24.12.4)(jsdom@30.0.1)(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)):
     dependencies:
-      '@vitest/expect': 4.1.11
-      '@vitest/mocker': 4.1.11(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))
-      '@vitest/pretty-format': 4.1.11
-      '@vitest/runner': 4.1.11
-      '@vitest/snapshot': 4.1.11
-      '@vitest/spy': 4.1.11
-      '@vitest/utils': 4.1.11
-      es-module-lexer: 2.0.0
-      expect-type: 1.3.0
-      magic-string: 0.30.21
-      obug: 2.1.1
-      pathe: 2.0.3
-      picomatch: 4.0.4
-      std-env: 4.0.0
-      tinybench: 2.9.0
-      tinyexec: 1.0.2
-      tinyglobby: 0.2.15
-      tinyrainbow: 3.1.0
+      '@types/chai': 5.2.3
+      '@vitest/mocker': 5.0.0(vite@7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0))
+      chai: 6.2.2
+      es-module-lexer: 2.3.2
+      expect-type: 1.4.0
+      magic-string: 1.2.3
+      obug: 2.2.1
+      picomatch: 4.0.7
+      std-env: 4.2.0
+      tinybench: 6.1.4
+      tinyexec: 1.3.0
+      tinyglobby: 0.2.17
       vite: 7.3.5(@types/node@24.12.4)(jiti@2.7.0)(lightningcss@1.33.0)(yaml@2.9.0)
       why-is-node-running: 2.3.0
     optionalDependencies:
@@ -8456,10 +8400,10 @@ snapshots:
 
   vscode-uri@3.1.0: {}
 
-  vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)):
+  vue-eslint-parser@10.4.0(eslint@10.8.0(jiti@2.7.0)(supports-color@8.1.1))(supports-color@8.1.1):
     dependencies:
-      debug: 4.4.3
-      eslint: 10.8.0(jiti@2.7.0)
+      debug: 4.4.3(supports-color@8.1.1)
+      eslint: 10.8.0(jiti@2.7.0)(supports-color@8.1.1)
       eslint-scope: 9.1.2
       eslint-visitor-keys: 5.0.1
       espree: 11.2.0
@@ -8588,13 +8532,13 @@ snapshots:
 
   xmlchars@2.2.0: {}
 
-  y-prosemirror@1.3.7(prosemirror-model@1.25.4)(prosemirror-state@1.4.4)(prosemirror-view@1.41.6)(y-protocols@1.0.7(yjs@13.6.31))(yjs@13.6.30):
+  y-prosemirror@1.3.7(prosemirror-model@1.25.4)(prosemirror-state@1.4.4)(prosemirror-view@1.41.6)(y-protocols@1.0.7(yjs@13.6.30))(yjs@13.6.30):
     dependencies:
       lib0: 0.2.117
       prosemirror-model: 1.25.4
       prosemirror-state: 1.4.4
       prosemirror-view: 1.41.6
-      y-protocols: 1.0.7(yjs@13.6.31)
+      y-protocols: 1.0.7(yjs@13.6.30)
       yjs: 13.6.30
 
   y-protocols@1.0.7(yjs@13.6.30):
