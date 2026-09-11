@@ -56,7 +56,7 @@
     <xwiki.release.jira.skip>false</xwiki.release.jira.skip>
     <xwiki.issueManagement.jira.id>CRISTALINT</xwiki.issueManagement.jira.id>
     <markdown.version>8.9.1</markdown.version>
-    <oidc.version>[2.20.3,2.21.0)</oidc.version>
+    <oidc.version>[2.20.3,2.28.0)</oidc.version>
   </properties>
   <developers>
     <developer>
