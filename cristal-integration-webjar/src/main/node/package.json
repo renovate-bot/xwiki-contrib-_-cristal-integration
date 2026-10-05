@@ -37,7 +37,7 @@
     "@xwiki/platform-model-remote-url-api": "18.7.0",
     "inversify": "8.2.3",
     "pinia": "4.0.2",
-    "vue-router": "5.2.0"
+    "vue-router": "5.3.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "3.3.5",
