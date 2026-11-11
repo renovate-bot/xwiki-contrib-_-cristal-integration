@@ -35,7 +35,7 @@
     "@xwiki/platform-icons": "18.7.0",
     "@xwiki/platform-link-suggest-xwiki": "18.7.0",
     "@xwiki/platform-model-remote-url-api": "18.7.0",
-    "inversify": "8.2.3",
+    "inversify": "8.2.4",
     "pinia": "4.0.2",
     "vue-router": "5.2.0"
   },
