@@ -4,4 +4,4 @@ ignoredBuiltDependencies:
 overrides:
   # @xwiki/cristal-uiextension-api pins vue-i18n to an exact version, and no Cristal release (latest 1.9.1)
   # pins 11.4.14 or later. Remove once Cristal is upgraded to a release that does.
-  vue-i18n: 11.4.14
+  vue-i18n: 11.4.23

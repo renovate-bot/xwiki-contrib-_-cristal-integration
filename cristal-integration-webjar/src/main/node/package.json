@@ -61,7 +61,7 @@
     "vite-plugin-css-injected-by-js": "4.0.1",
     "vitest": "4.1.11",
     "vue": "3.5.42",
-    "vue-i18n": "11.4.14",
+    "vue-i18n": "11.4.23",
     "vue-tsc": "3.3.4"
   }
 }
